@@ -10,7 +10,7 @@ MODELS = {
     "attribute": ("models/attribute/final", "Attribute"),
 }
 
-INPUT_PATH = "input/document.txt"
+INPUT_PATH = "input/chap_1_&_2.txt"
 OUTPUT_PATH = "predictions.ann"
 
 with open(INPUT_PATH) as f:

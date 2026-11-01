@@ -1,0 +1,356 @@
+
+ESTABLECE PLAN DE PREVENCIÓN Y DESCONTAMINACIÓN ATMOSFÉRICA PARA LA REGIÓN METROPOLITANA DE SANTIAGO
+
+     Núm. 31.- Santiago, 11 de octubre de 2016. 
+
+     Visto:
+
+     Lo dispuesto en la ley N°19.300, sobre Bases Generales del Medio Ambiente; en el DS N° 39, de 2012, del Ministerio del Medio Ambiente, que Aprueba el Reglamento para la Dictación de Planes de Prevención y de Descontaminación; en el decreto supremo N° 12, de 2011, del Ministerio del Medio Ambiente, que establece la Norma Primaria de Calidad Ambiental para Material Particulado Fino Respirable MP2,5; en el decreto supremo N° 59, de 1998, del Ministerio Secretaría General de la Presidencia, que establece la Norma de Calidad Primaria para Material Particulado Respirable MP10; en el DS N° 131, de 1996, del Ministerio Secretaría General de la Presidencia que Declara Zona Saturada por Material Particulado Respirable MP10, Partículas en Suspensión, Ozono y Monóxido de Carbono; y Zona Latente por Dióxido de Nitrógeno a la Región Metropolitana de Santiago; en el DS N° 67, de 2014, del Ministerio del Medio Ambiente, que Declara Zona Saturada por Material Particulado Fino Respirable (MP2,5) a la Región Metropolitana de Santiago; en el DS N° 66, de 2009, del Ministerio Secretaría General de la Presidencia, que Revisa, Reformula y Actualiza Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago; en la resolución exenta N°1171, de 2014, del Ministerio del Medio Ambiente, que dio inicio al proceso de elaboración del Plan de Descontaminación Atmosférica por Material Particulado Fino Respirable MP2,5, como concentración de 24 horas, para la Región Metropolitana de Santiago; en la resolución exenta N°218, de 2015, del mismo Ministerio, que da inicio al proceso de revisión, reformulación y actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago y que ordenó su acumulación al proceso citado anteriormente; en la resolución exenta N° 177, de 2016, del Ministerio del Medio Ambiente, que fija el Programa de Regulación Ambiental 2016-2017, y en la resolución N° 1.600 de 2008, de la Contraloría General de la República; y
+
+     Considerando:
+
+     Que, por DS Nº66, de 2009, del Ministerio Secretaría General de la Presidencia, se revisó, reformuló y actualizó el Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago; el que tuvo como antecedente el DS N° 131, de 1996, del mismo ministerio, que declaró Zona Saturada por Material Particulado Respirable MP10, Partículas en Suspensión, Ozono y Monóxido de Carbono; y Zona Latente por Dióxido de Nitrógeno, a la misma zona geográfica;
+     Que, por DS N°67, de 2014, del Ministerio del Medio Ambiente, se declaró Zona Saturada por Material Particulado Fino Respirable MP2,5, como concentración de 24 horas, a la Región Metropolitana de Santiago;
+     Que, por resolución exenta N° 1171, de 2014, del Ministerio del Medio Ambiente, se dio inicio al proceso de elaboración del Plan de Descontaminación Atmosférica por Material Particulado Fino Respirable MP2,5, como concentración  de 24 horas, para la Región Metropolitana de Santiago;
+     Que, por resolución exenta N°218, de 2015, del Ministerio del Medio Ambiente, se dio inicio al proceso de revisión, reformulación y actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago ya citado, y se ordenó su acumulación al proceso de elaboración del Plan de Descontaminación Atmosférica por Material Particulado Fino Respirable MP2,5;
+     Que, las características geográficas y meteorológicas de la Región Metropolitana de Santiago determinan condiciones que favorecen la formación y acumulación de contaminantes, especialmente durante la época invernal, situación que obliga a implementar medidas de control cada vez más exigentes en todos los sectores regulados, de forma tal de alcanzar y mantener las reducciones necesarias para lograr el cumplimiento de las normas de calidad del aire vigentes;
+     Que, de acuerdo a la evolución de la calidad del aire y logros alcanzados a la fecha, los cuales indican que la Región Metropolitana de Santiago ya no se encuentra en condición de saturación para dióxido de nitrógeno (NO ) y monóxido de carbono (CO), situación que en cambio persiste para material particulado fino respirable (MP2,5), material particulado respirable (MP10) y Ozono (O ), los esfuerzos de la actualización deben focalizarse en el control de las emisiones directas y precursores de estos últimos contaminantes, de forma tal de alcanzar las reducciones necesarias;
+     Que, de acuerdo a estudios realizados en la Región Metropolitana de Santiago, el mejoramiento de la calidad del aire en el periodo de aplicación del PPDA y sus reformulaciones pasadas se ha traducido en una importante reducción de los impactos negativos sobre la salud de la población;
+     Que, de acuerdo con los resultados de la caracterización físico química del material particulado MP10 y MP2,5, una parte importante de las concentraciones medidas corresponde a emisiones de origen natural y que por lo tanto no son factibles de ser controladas;
+     Que, de acuerdo a los estudios realizados para la determinación de los aportes sectoriales a la contaminación de la Región Metropolitana de Santiago, las principales fuentes de la misma son las residencias, el transporte y la industria. Los mismos antecedentes destacan la creciente importancia de las fuentes de contaminación como son las emisiones asociadas a la calefacción con leña, las provenientes de maquinaria fuera de ruta -MFR-, agroindustria, emisiones evaporativas de compuestos orgánicos volátiles y las quemas agrícolas, entre otras;
+     Que los antecedentes internacionales indican la importancia del control del material particulado, teniendo en consideración elementos como el tamaño de las partículas y su toxicidad, por su relación con el impacto sobre la salud;
+     Que, en base a todos los antecedentes recopilados, se elaboró un anteproyecto para una nueva reformulación del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago (PPDA), que incorpora al material particulado MP2,5, documento en el cual se plasmaron los principales lineamientos, objetivos y acciones propuestas. En esta etapa de elaboración del anteproyecto se acompañaron estudios científicos, informes y otros antecedentes, los que debidamente agregados al expediente, permitieron confirmar que el Plan requería reformularse y perfeccionarse en diversas materias;
+     Que, según los antecedentes disponibles, se estimó necesario priorizar las acciones del PPDA en continuar con el control de las emisiones directas de material particulado provenientes principalmente de procesos de combustión, profundizar las medidas de reducción de emisiones de los precursores de material particulado secundario e incorporar estrategias de control de emisiones evaporativas de compuestos orgánicos volátiles (COV) y amoniaco (NH ). Además, se consideró conveniente mejorar las capacidades institucionales de coordinación y gestión para obtener una implementación eficaz de las medidas del Plan y su complementación con otros planes y políticas afines;
+     Que, en el proceso de reformulación del Plan se procedió a la consulta ciudadana, de acuerdo a los mecanismos establecidos por la ley Nº 19.300, sobre Bases Generales del Medio Ambiente, en adelante indistintamente ley N° 19.300;
+     Que, por su parte, tanto el Consejo Consultivo Regional de la Región Metropolitana como el Consejo Consultivo Nacional, conocieron y emitieron opinión respecto del texto del anteproyecto;
+     Que, el proyecto definitivo se hizo cargo de las principales observaciones recibidas en el proceso de consulta, con lo cual la actualización quedó estructurada en base a las medidas que se determinaron necesarias y factibles de implementar. Las principales medidas propuestas están orientadas al control de las emisiones de la calefacción residencial a leña en zonas urbanas, del transporte, el mejoramiento de los combustibles y el establecimiento de normas y metas de reducción de emisiones en la industria. Complementariamente, en los ámbitos que no se dispone de los antecedentes suficientes para establecer regulaciones en el presente decreto, se definen acciones programáticas orientadas a realizar los estudios necesarios y la coordinación institucional que se requiera para elaborar propuestas regulatorias que puedan ser incorporadas en acciones futuras;
+     Que, el Consejo de Ministros para la Sustentabilidad se pronunció favorablemente sobre el proyecto definitivo del PPDA, mediante Acuerdo N°13 de 4 de octubre de 2016; y
+     Que, finalmente, el plan de prevención y descontaminación es un instrumento de gestión ambiental que tiene por finalidad evitar la superación y recuperar los niveles señalados en las normas primarias y/o secundarias de calidad ambiental de una zona latente o saturada por uno o más contaminantes.
+
+     Decreto:
+
+     Apruébese el Plan de Prevención y Descontaminación para la Región Metropolitana de Santiago, que es del siguiente tenor:
+     CAPÍTULO I: INTRODUCCIÓN Y ANTECEDENTES GENERALES
+     Artículo 1: El presente Plan de Prevención y Descontaminación Atmosférica que regirá en la Región Metropolitana de Santiago tiene por objetivo dar cumplimiento a las normas primarias de calidad ambiental de aire vigentes, asociadas a los contaminantes Material Particulado Respirable (MP10), Material Particulado Fino Respirable (MP2,5), Ozono (O ) y Monóxido de Carbono (CO), en un plazo de 10 años.
+     Artículo 2: Los antecedentes fundantes del presente Plan de Prevención y Descontaminación Atmosférica se indican a continuación:
+
+     I.1 Antecedentes Normativos
+
+     La Región Metropolitana de Santiago fue declarada zona saturada por MP10, Partículas en Suspensión, O y CO; y zona latente por NO , mediante el DS N°131, de 1996, del Ministerio Secretaría General de la Presidencia (Minsegpres).
+     Una vez declarada zona saturada y latente la Región Metropolitana de Santiago y de conformidad con lo dispuesto en la ley N° 19.300, y el DS N° 94, de 1995, de Minsegpres, se elaboró el Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago, el cual fue aprobado por el DS N°16, de 1998, de Minsegpres, y que fue revisado, actualizado y reformulado mediante el DS N°58, de 2003 y el DS N°66, de 2009, ambos del Minsegpres.
+     Mediante el DS N°67, de 2014, del Ministerio del Medio Ambiente, se declaró Zona Saturada por MP2,5 a la Región Metropolitana de Santiago. Según lo establecido en el Reglamento para la Dictación de Planes de Prevención y de Descontaminación, se dio inicio a la elaboración del anteproyecto del Plan de Descontaminación Atmosférica por MP2,5, como concentración de 24 horas, para la Región Metropolitana de Santiago, mediante la resolución exenta N°1171, de 2014, del Ministerio del Medio Ambiente.
+     Asimismo, mediante la resolución exenta N°218, de 2015, del Ministerio del Medio Ambiente, se da inicio al proceso de revisión, reformulación y actualización del DS N°66, de 2009, de Minsegpres, y se ordenó acumularlo con el proceso de elaboración del Plan de Descontaminación Atmosférica por MP2,5, los que continúan como un solo procedimiento.
+
+     I.2 Antecedentes y Descripción de la Zona Saturada y Latente (en adelante "zona sujeta al Plan")
+
+     I.2.1 Características Geográficas
+
+     La Región Metropolitana de Santiago tiene una población total estimada para el año 2015 de 7.140.674 habitantes, con una población urbana de 6.892.411 habitantes al mismo año1, y una superficie de 15.554,5 km2, donde el 85,7% corresponde a terrenos montañosos, 11% a superficie destinada a la agricultura y 3,3% a espacios urbanizados.
+     Es una región mediterránea, que se ubica entre la Cordillera de Los Andes y de la Costa, en que predominan los relieves montañosos que encierran hacia el centro de la región una amplia y extensa cuenca aérea, la de Santiago. Por el norte, el cordón montañoso de Chacabuco la separa de la Región de Valparaíso, y por el sur, los cerros de Angostura y Chada (en Paine) constituyen el límite con la Región del Libertador General Bernardo O'Higgins.
+     La cuenca de Santiago limita al oriente con los faldeos de la Cordillera de Los Andes, con cerros que superan los 3.200 m.s.n.m. (Cerro Ramón). Por el oeste, la Cordillera de la Costa alcanza alturas sobre 2.000 m.s.n.m. (Cerros Roble Alto), siendo interrumpida por el Valle del Río Maipo, que abre la cuenca hacia el sector sudoeste. Más al sur, el macizo de Alhué (Cerro Cantillana) supera los 2.200 m de altitud.
+     Los cerros que rodean la planicie central imponen fuertes restricciones a la circulación de vientos y, por ende, a la renovación del aire al interior de la cuenca. Por ello, en épocas de estabilidad atmosférica los contaminantes quedan atrapados dentro de la cuenca que alberga a la ciudad de Santiago.
+
+     I.2.2 Antecedentes Meteorológicos
+
+     Desde la entrada en vigencia del Plan de Prevención y Descontaminación Atmosférica de la Región Metropolitana de Santiago el año 1998, diversos estudios han permitido identificar los patrones meteorológicos que modulan la capacidad de remoción del material particulado desde la cuenca. En especial, se han identificado los sistemas meteorológicos de escala sinóptica y los fenómenos de estabilidad local observados durante la ocurrencia de los episodios de contaminación. De este modo, se ha determinado la variabilidad estacional de las configuraciones meteorológicas típicas de la zona central de Chile y su influencia decisiva en la ocurrencia de episodios críticos de contaminación atmosférica por material particulado fino, que se dan principalmente durante el periodo otoño-invierno. 
+     Durante condiciones de mala ventilación, predomina en toda la cuenca una condición de alta estabilidad, con una inversión térmica superficial en las primeras decenas de metros, lo que afecta la capacidad de remoción de contaminantes desde la cuenca, particularmente durante el periodo frío. Lo anterior indica que la estabilidad de la cuenca es un factor importante en la evolución diaria de las concentraciones de contaminantes en superficie y afecta el intercambio de la masa del aire de la cuenca a escala regional. La disminución en la capacidad de la cuenca de remover los contaminantes se acentúa en los periodos de fuerte estabilidad atmosférica, donde el escaso desarrollo de la capa de mezcla inhibe el viento generando los periodos de cuasi-calma, generando un aumento generalizado de las concentraciones de MP2,5 en toda el área metropolitana.
+---------------------------------
+1   Proyecciones Censo 2002
+
+     Mediciones realizadas, han permitido demostrar que el factor meteorológico es decisivo en la ocurrencia de los episodios críticos por material particulado en la Región Metropolitana de Santiago. Por esta razón, una forma de realizar un seguimiento a las configuraciones meteorológicas de escala sinóptica que modulan el comportamiento medio de la atmósfera global en la cuenca regional y traducirlas en un indicador para el diagnóstico y pronóstico de días con mala ventilación es el Potencial Meteorológico de Contaminación Atmosférica (PMCA).
+     Durante el período estival, el calentamiento superficial permite la erosión de la capa de inversión térmica sobre la cuenca, lo que se traduce en un mejoramiento significativo de la ventilación. Sin embargo, la emisión de compuestos nitrogenados y de compuestos orgánicos, más la disponibilidad de radiación solar, favorecen la formación de compuestos fotoquímicos, generando el aumento en las concentraciones de ozono troposférico.
+
+     I.3 Antecedentes de Calidad de Aire
+
+     Al cabo de casi 25 años de gestión de la calidad del aire se pueden constatar cambios estructurales en los patrones de producción y consumo de la Región Metropolitana de Santiago que han permitido una reducción de la contaminación por MP10 y principalmente por MP2,5. Esta menor contaminación se observa en los promedios anuales, en los promedios de 24 horas y en la disminución del número de episodios críticos de alta contaminación por MP10. 
+     Los principales cambios han sido una mejora notable de la calidad de los combustibles usados por el transporte: combustibles sin plomo y reducción en la concentración de azufre en el diésel; la llegada del gas natural; exigencias de metas de emisión de NOx y MP a la industria; una transformación radical del transporte público y un control estricto del mercado automotriz, en términos de incorporar progresivamente vehículos más limpios. Sin embargo, persisten actividades que no han experimentado una transformación relevante en términos tecnológicos, lo que las ha ido convirtiendo en las mayores responsables de los niveles de contaminación observados actualmente, principalmente las residencias que emplean calefacción a leña, el transporte comercial y de carga urbano e interurbano, a lo que se suma el fuerte incremento del parque de vehículos livianos.
+
+     El Gráfico I 1 muestra medidas adoptadas para el control del material particulado y sus precursores en la Región Metropolitana de Santiago, y su efecto en la disminución de concentraciones.
+
+     Gráfico I 1: Evolución de la concentración de MP2,5 y principales hitos, serie 1989-2015, mediante filtros de equipos dicotómicos de estaciones históricas2 de la Red MACAM
+
+
+     Fuente: Elaboración Departamento de Redes de Monitoreo, Ministerio del Medio Ambiente
+
+     Las intervenciones que ha tenido la Región Metropolitana de Santiago han logrado un impacto positivo en la calidad del aire, entre ellas la progresiva mejora de los combustibles, la incorporación de profundas transformaciones viales, la extensión permanente de las redes del Metro, la transformación del transporte público con Transantiago, nuevas normas de emisión para vehículos, cambios en las regulaciones industriales, entre otros.
+-------------------------------------------
+
+2   Las estaciones consideradas para este cálculo son Independencia, Las Condes y Parque O'Higgins, en que se promedia el dato anual de las 3 estaciones para obtener un valor anual.
+
+     El Gráfico I-2 muestra que las medidas aplicadas a camiones, buses e industria han significado reducciones sustanciales de las emisiones, sin embargo el aumento de parque vehicular liviano, el número de calefactores a leña, y la creciente presencia del aporte de la maquinaria fuera de ruta ha limitado las ganancias ambientales en los otros sectores, así explicando cierto estancamiento de las reducciones en la última década. Si bien, el DS N°66, de 2009, de Minsegpres, logró importantes mejoras en la calidad del aire para el material particulado MP10 y especialmente la fracción fina MP2,5, desde la publicación de esta nueva normativa para la fracción fina, es la que presenta los mayores desafíos.
+
+     Gráfico I-2: Evolución de emisiones de MP2,5 (ton/año) de inventarios de emisiones 1997-2014 para principales fuentes
+
+
+
+     El principal problema en la Región Metropolitana de Santiago sigue siendo el material particulado, en especial el MP2,5, como se aprecia en el Gráfico I 3. El material particulado grueso, prácticamente, se mantiene constante durante los distintos meses del año, mientras que el MP2,5 presenta una variabilidad anual, siendo la temporada otoño-invierno donde sus concentraciones alcanzan los valores máximos. 
+
+
+     Gráfico I 3: Variación anual (1998-2015) de la fracción fina y gruesa del MP10, estación Pudahuel
+
+
+     El MP2,5 es producido por emisiones directas de los procesos de combustión de combustibles fósiles, a partir de la condensación de gases, de reacciones químicas en la atmósfera a partir de gases precursores como el dióxido de azufre, óxidos de nitrógeno, compuestos orgánicos volátiles, amoníaco, y otros compuestos. Sus principales fuentes son los procesos que ocurren durante la combustión como los automóviles, buses y camiones, tanto a diésel como a gasolina, plantas termoeléctricas, calderas, procesos industriales, hornos, fundiciones, procesos metalúrgicos, la combustión de biomasa, como la calefacción residencial a leña, las quemas agrícolas e incendios forestales, y emisiones de amonio de las operaciones agrícolas.
+     La fracción fina del material particulado tiene efectos y riesgos en la salud, como: mortalidad y admisiones hospitalarias en pacientes con enfermedad pulmonar obstructiva crónica y con enfermedad cardiovascular, exacerbación de los síntomas e incremento del asma, aumento de riesgo de infartos al miocardio, inflamación pulmonar, inflamación sistémica, disfunciones endoteliales y vasculares, desarrollo de aterosclerosis, incremento en la incidencia de infecciones y cáncer respiratorio. Por lo anterior, el material particulado fino (partículas igual o menores a 2,5 ?m), como contaminante atmosférico, está fuertemente relacionado con el aumento en morbilidad y mortalidad de la población.
+     La última distribución del MP2,5 arrojó que los derivados de carbono, elemental y orgánico, representan el 67%, siendo este último responsable de más del 50% del material particulado fino. La otra parte importante de la distribución la tienen los aerosoles secundarios que en conjunto alcanzan al 33% de responsabilidad, siendo los derivados de nitrato y amonio los más importantes.
+
+     Gráfico I-4: Caracterización química del MP2,5 en la Región Metropolitana de Santiago, año 2015.
+
+Fuente: Elaboración propia en base a FUDE 2015, Análisis General del Impacto Económico y Social del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago, MMA 2015.
+
+     Entre los años 1998 al 2015, se han ejecutado estudios de análisis de filtros de material particulado para la Estación Parque O'Higgins de la Red MACAM, que muestran una evaluación de la evolución de la contaminación en Santiago en los últimos años, en los cuales se aprecia claramente la reducción de plomo y azufre, producto de las medidas impulsadas en el PPDA, como se puede observar en el Gráfico I 5. También se observan disminuciones en los contaminantes asociados a fuentes industriales. Sin embargo, el aumento del azufre a partir del año 2006 permitió identificar los impactos asociados al recambio del sector industrial, cuya matriz energética pasó de ser principalmente a gas natural desde una combinación entre diésel y petróleos pesados.
+
+     Gráfico I-5: Tendencia3 en la composición del MP2,5 Parque O'Higgins
+
+
+Fuente: Ministerio del Medio Ambiente
+
+     I.4 Gestión de Episodios Críticos 
+
+     I.4.1 Antecedentes 
+     El PPDA para la Región Metropolitana de Santiago aprobado por DS 66, de 2009, de Minsegpres y sus actualizaciones anteriores definieron un "Plan Operacional para Enfrentar Episodios Críticos de Contaminación Atmosférica por Material Particulado (MP10)". Lo anterior, con el objetivo de prevenir la exposición de la población a altos índices de contaminación por MP10, que contemplaba la aplicación de medidas preventivas de carácter permanente para el control de emisiones de contaminantes, entre el 1 de abril y el 31 de agosto (período de condiciones adversas de ventilación en la región), y medidas de mitigación durante los episodios, en caso de preverse situaciones críticas de contaminación (Alerta, Premergencia o Emergencia). Así, para la declaración de episodios por MP10, el DS N°59, de 1998, de Minsegpres, señala como niveles que originan situaciones de emergencia ambiental para material particulado respirable MP10 los siguientes: 
+
+     Tabla I-1: Niveles que determinan las situaciones de Emergencias Ambientales para MP10
+
+
+Fuente: D.S. N°59, de 1998, del MMA, Norma de Calidad primaria para MP10 respirable, en especial los valores que definen situaciones de emergencia ambiental.
+
+Por su parte, para la declaración de episodios por MP2,5, el DS N°12, de 2011, del Ministerio del Medio Ambiente señala como niveles que originan situaciones de emergencia ambiental para material particulado respirable MP2,5 los siguientes:
+
+     Tabla I-2: Niveles que determinan las situaciones de Emergencias Ambientales para MP2,5
+
+
+Fuente: D.S. N°12, de 2011, del MMA, Norma de Calidad primaria para Material Particulado Fino Respirable MP2,5, en especial los valores que definen situaciones de emergencia ambiental
+
+     I.4.2 Evaluación del Número de Episodios Críticos para MP2,5 y MP10
+
+     Durante la Gestión de Episodios Críticos (GEC) para el PPDA por MP10 se han constatado los siguientes episodios, según se ve en el Gráfico I 6. Este gráfico muestra el aumento que tuvo la fracción MP10 respecto de años anteriores, y en particular el crecimiento en el número de preemergencias, que sitúa al año 2015 como uno de los peores en términos de ventilación.
+
+     Gráfico I-6: Episodios Constatados y Concentración Promedio Anual MP10, periodo 1997-2016
+
+
+Fuente: Elaboración Departamento de Redes de Monitoreo, Ministerio del Medio Ambiente
+
+     El siguiente Gráfico I 7, muestra la tendencia de episodios constatados para MP2,5. Se observa una importante reducción en la última década, fundamentalmente entre 2014 a 2016, cuando se empezó a hacer gestión de episodios críticos por MP2,5, logrando reducir entre el año 2013 y el 2016 un 52% los episodios críticos por este contaminante.
+
+     Gráfico I-7: Número de episodios de MP2,5 constatados entre 2000 y 2016. Observación directa 2014-2016 con instrumentación atenuación beta. Observación reconstruida 2000-2013 por correlación establecida entre mediciones TEOM y atenuación Beta.
+
+Fuente: Informe Centro Mario Molina (2017)4, Ministerio del Medio Ambiente.
+
+     I.5 Cumplimiento de Normas de Calidad del Aire en la Región Metropolitana de Santiago 
+
+     El presente acápite tiene como objetivo mostrar la evolución de las concentraciones de contaminantes criterio5 presentes en la Región Metropolitana de Santiago en el período de aplicación del PPDA. Estas concentraciones han sido medidas desde el año 1997 a la fecha, en las estaciones de la red oficial de monitoreo de calidad del aire -Red MACAM6 -. Cabe señalar que la Red ha experimentado modificaciones en su equipamiento y lugares de emplazamiento de las estaciones. Por otra parte, la administración de esta red de monitoreo y vigilancia de la calidad del aire, como asimismo los laboratorios de gravimetría e instrumental de calibración dejaron de estar a cargo de la Secretaría Regional Ministerial de Salud de la Región Metropolitana de Santiago (Seremi de Salud RM), institución que la había manejado desde el año 1997, pasando a ser operados por el Ministerio del Medio Ambiente a partir del 1 de enero de 2012, de acuerdo a lo establecido en el Convenio de Colaboración suscrito entre ambos ministerios, que fue aprobado por resolución exenta N°1.123, del 22 de septiembre de 2011, del Ministerio del Medio Ambiente. 
+
+     I.5.1 Gases Normados7 
+
+     Para los gases, se cuenta con valores anuales desde 1997 y trianuales, como lo exige la norma, desde el año 1999 hasta el año 2015. 
+
+     Tabla I-3: Valores trianuales de gases normados y su superación de norma al año 2015.
+
+(*) Valores de CO en mg/m3 , valor trianual año 2014.
+
+-------------------------------------------
+4 Informe Final "Caracterización del Material Particulado Fino y Grueso en la Región Metropolitana de Santiago", Centro Mario Molina para el Ministerio del Medio Ambiente 2017. 
+5 Contaminantes criterio: MP10 y MP2,5 (norma anual y de 24 horas - P98 -), O3 (promedio móvil de 8 horas -P99-), NO2 (anual y 1 hora -P99-), CO (1 hr y 8 hrs -P99-) y SO2 (anual y de 24 horas -P99-). 
+6 La Red MACAM incorpora 7 estaciones hasta el año 2007. El año 2008 se incluye la estación de Cerro Navia y desde el año 2009 se suman las estaciones de Quilicura, Puente Alto y Talagante, completando un total de 11 estaciones a la fecha. 
+7 Reporte de Calidad del Aire 2013-2015, Ministerio del Medio Ambiente, 2016. 
+8 Las normas de calidad que regulan los parámetros indicados son: (i) el D.S. N° 112, de 2002, del Ministerio Secretaría General de la Presidencia, para Ozono (O3), (ii) el D.S. N° 114, de 2002, del Ministerio Secretaría General de la Presidencia, para Dioxido de nitrógeno (NO2), (iii) el D.S. N° 115, de 2002, del Ministerio Secretaría General de la Presidencia, para Monóxido de Carbono (CO), (iv) el D.S. N° 113, de 2002, del Ministerio Secretaría General de la Presidencia, para Dióxido de Azufre (SO2).
+
+     Tal como se indica en la Tabla I 3 y como se observa en el Gráfico I 8, de acuerdo a los valores trianuales de los contaminantes, se constata que la Región Metropolitana de Santiago se encuentra en estado de Saturación por O3 en su norma de 8 horas. Además, se encuentra en estado de Latencia por monóxido de carbono CO en su norma de 8 horas, y en cumplimiento, para las normas: horaria de CO y las normas de NO2 y SO2 , a diferencia de la declaración de zona saturada hecha en 1996 (DS N°131, de 1996, de Minsegpres) donde se declaró saturada por ozono, monóxido de carbono y latente por dióxido de nitrógeno. 
+
+     Gráfico I 8: Evolución del cumplimiento de la norma trianual para Gases. Datos 1999 y 2015.
+
+Fuente: Ministerio del Medio Ambiente.
+
+I.5.2 Material Particulado9 
+
+Para MP10 y MP2,5, se cuenta con valores anuales desde 1997 y trianuales, como lo exige la norma, desde el año 1999 hasta el año 2015. 
+
+     Tabla I-4: Valores anuales y trianuales para MP10 y MP2,5 y su superación de norma al año 2015.
+
+(*) Promedio trianual.
+Fuente: Ministerio del Medio Ambiente.
+
+     Para el caso de material particulado, según los datos de la Tabla I 4 y como se observa en el Gráfico I 9, para los valores trianuales y norma diaria para las concentraciones de MP10 y MP2,5, se constata que la Región Metropolitana de Santiago se encuentra en estado de saturación por MP10 y MP2,5 en sus normas diaria y anual. 
+
+     Gráfico I 9: Evolución del cumplimiento de la norma diaria y anual para Material Particulado.
+
+Fuente: Ministerio del Medio Ambiente.
+
+-------------------------------------------
+9 Reporte de Calidad del Aire 2013-2015, Ministerio del Medio Ambiente, 2016.
+
+
+
+
+
+
+
+     Por último, las superaciones de normas expuestas en las figuras anteriores permiten evaluar el estado de Latencia o Saturación para los contaminantes criterio señalados.
+
+     I.6 Metas de calidad del aire
+
+     A partir de las medidas establecidas en el PPDA y una de sus actualizaciones contenida en el DS N°66, de 2009, del Minsegpres, se observa en la evolución de los contaminantes normados una reducción de los niveles de concentración. Sin embargo, y dado los niveles de avance a la fecha, es posible concluir que dichas medidas son insuficientes para alcanzar las metas establecidas.
+     El nivel de MP10 y MP2,5 diario es aún insuficiente para cumplir la meta de calidad del aire de 150 µg/m3 y 50 µg/m3, respectivamente, como promedio de 24 horas, así como tampoco se alcanzaría la meta trianual de MP10 y MP2,5 de 50 µg/m3 y 20 µg/m3, respectivamente. En el caso de ozono, no es posible alcanzar la meta de 8 horas de 120 µg/m3 con las medidas actualmente establecidas.
+     Por lo anterior, es necesario incorporar nuevas medidas de control de emisiones para material particulado y gases, de acuerdo a las reducciones adicionales requeridas para cumplir con las metas de calidad del aire del Plan en los plazos propuestos.
+     La meta del Plan es cumplir las normas de calidad tanto para MP10, MP2,5 y O disminuyendo las concentraciones hasta valores que se encuentren por debajo de los niveles considerados de saturación y salir de la latencia para la norma de CO de 8 horas, de tal forma de dar cumplimiento a la normativa vigente de calidad del aire, en un plazo de 10 años desde la entrada en vigencia del presente decreto, considerando el año 2015 como "año base", a partir del cual se calculó la reducción de concentraciones. Dicho cálculo, en porcentaje, se estima en base a la reducción en µg/m3  requerida para el cumplimiento de la normativa, el que se realiza sobre la base total de concentraciones a reducir (diferencia entre las concentraciones año 2015 y el valor de la meta del plan).
+     Como información de referencia, la concentración reportada el año 2015, es en la estación de monitoreo clasificada como Estación de Monitoreo con Representatividad Poblacional (EMRP), que arrojó el valor más alto de acuerdo a la norma vigente.
+     A continuación se indica el estado de cumplimiento de tales metas.
+
+     I.6.1 Metas de Gases Normados
+
+     La Tabla I-5 muestra el resumen de las metas de calidad del aire para cada uno de los gases, como promedio trianual, de acuerdo a la normativa vigente:
+
+     Tabla I-5: Metas de calidad del aire para gases normados.
+
+(*) Valores de CO en mg/m3, valor trianual año 2014
+(**) Norma 8 horas de CO en condición de Latencia año 2014.
+Fuente: Ministerio del Medio Ambiente.
+
+
+     I.6.2 Metas para Material Particulado 
+
+     La Tabla I-6 muestra el resumen de las metas de calidad del aire para MP10 y MP2,5, de acuerdo a la normativa vigente:
+
+     Tabla I-6: Valores anuales y trianuales para MP10 y MP2,5 y su superación de norma al año 2015.
+
+*) Promedio trianual.
+Fuente: Ministerio del Medio Ambiente.
+
+     I.6.3 Indicadores 
+
+     Si bien las metas indicadas guardan relación con el cumplimiento de la normativa vigente para calidad del aire, existe un conjunto de indicadores que pueden demostrar que el grado de cumplimiento de las medidas del PPDA tiene un efecto positivo en la calidad del aire. 
+     Los siguientes indicadores orientados a la relación exposición-dosis de la población, pueden señalar que la población se verá menos expuesta a concentraciones de calidad del aire: 
+
+     1. Disminución del número de episodios para MP10 y MP2,5 en Preemergencia y Emergencia. 
+     2. Disminución de la duración de los episodios de Preemergencia y Emergencia para MP10 y MP2,5, medidas en horas para promedios móviles de 24 horas. 
+     3. Disminución de las concentraciones diarias máximas de MP10 y MP2,5, percentil 98, para cada año. 
+     4. Disminución de los días sobre norma para MP10 y MP2,5. 
+     5. Disminución de las concentraciones trianuales de MP10 y MP2,5. 
+     6. Disminución de las concentraciones trianuales de ozono para su concentración de 8 horas.
+
+     I.7 Inventario de Emisiones 
+
+     Con el inventario de emisiones es posible determinar la contribución de emisiones directas de MP2,5 y emisiones de gases precursores por sector, de manera de hacer un diagnóstico que permita establecer medidas para los distintos sectores acordes a su responsabilidad. 
+
+     Tomando como fuente el inventario de emisiones desarrollado por la Usach durante el año 2014, y los estudios de Centro Mario Molina 2014, GEASUR 2015 y POCH 2016, podemos indicar que el 38,5% de emisiones directas de MP2,5 corresponden al sector Residencial. Por otro lado, con respecto a las emisiones de precursores de material particulado, 60% de emisiones de NOx corresponden al sector Transporte; 80% de emisiones de SOx corresponden al sector Industrial; 39,7% de emisiones de COV corresponden al sector Residencial; y 95,8% de emisiones de NH3 corresponden al sector Agroindustria. 
+
+     Tabla I-7: Inventario de emisiones año de partículas y gases por sector, año base 2015
+(*) Otros: Incendios forestales, emisiones biogénicas, rellenos sanitarios y tratamiento de aguas 
+
+Fuente:Elaboración propia, en base a datos de losEstudios: "Actualización y Sistematización delInventario de Emisiones deContaminantes Atmosféricos en la Región Metropolitana de Santiago", USACH 2014; "Propuesta de regulaciones para el MP2,5, sus precursores y contaminantes que afecten el cambio climático, para las distintasfuentes estacionarias de la Región Metropolitana de Santiago", Centro Mario Molina 2014; "Generación de antecedentes para la evaluación técnica-económica a la aplicación de medidas de control para fuentes móviles en PPDARegión Metropolitana de Santiago", GEASUR 2015; "Generación deAntecedentes Técnicos y Económicos para la Elaboración de Medidas para la Reducción de Emisiones en el Sector Agropecuario, en el marco del Plan de Prevención y DescontaminaciónAtmosférica (PPDA) para la Región Metropolitana de Santiago", POCH 2016. Estudios elaborados para el MMA.
+
+     Gráfico I-10: Inventario de emisiones de partículas y gases por sector
+
+Fuente: Elaboración propia, en base a datos de los Estudios: "Actualización y Sistematización del Inventario de Emisiones de Contaminantes Atmosféricos en la Región Metropolitana de Santiago", USACH 2014; "Propuesta de regulaciones para el MP2.5, sus precursores y contaminantes que afecten el cambio climático, para las distintas fuentes estacionarias de la Región Metropolitana de Santiago", Centro Mario Molina 2014; "Generación de antecedentes para la evaluación técnicaeconómica a la aplicación de medidas de control para fuentes móviles en PPDA Región Metropolitana de Santiago", GEASUR 2015; "Generación de Antecedentes Técnicos y Económicos para la Elaboración de Medidas para la Reducción de Emisiones en el Sector Agropecuario, en el marco del Plan de Prevención y Descontaminación Atmosférica (PPDA) para la Región Metropolitana de Santiago", POCH 2016. Estudios elaborados para el MMA.
+
+
+     I.8 Beneficios y costos del PPDA
+
+     El DS N°39, de 2012, del Ministerio del Medio Ambiente, que aprueba el Reglamento para la Dictación de Planes de Prevención y Descontaminación, exige la elaboración de un Análisis General del Impacto Económico y Social (AGIES) de los planes de prevención y descontaminación atmosférica.
+     La metodología empleada en la elaboración del AGIES del anteproyecto de Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago (PPDA) es el análisis Costo-Beneficio, ampliamente utilizado y recomendado en la literatura para la evaluación de proyectos sociales. La reducción de emisiones asociadas a planes de descontaminación tiene efectos económicos, sociales y ambientales, que se resumen en beneficios para los receptores de las emisiones y costos para el regulado.
+     El AGIES tiene como objetivo evaluar los costos y beneficios asociados a las medidas propuestas en el anteproyecto, de tal forma de apoyar la toma de decisiones en el proceso de elaboración del Plan. Los beneficios valorizados de las medidas del plan corresponden a impactos en la salud de la población expuesta, debido a la disminución de concentración ambiental de MP2,5 producto de la reducción de emisiones de las fuentes reguladas. Específicamente, se valoran los eventos evitados de mortalidad prematura, morbilidad, días de actividad restringida y productividad perdida. Adicionalmente se valoran los beneficios por ahorros en el uso de combustible ante medidas que mejoran la eficiencia en el uso del mismo.
+     Dentro de las limitaciones del análisis se mencionan los beneficios por reducción de MP que no fueron valorizados tales como la mejora en visibilidad, en materiales, efectos sobre ecosistemas, disminución de gases de efecto invernadero, beneficios para la agricultura y suelos, imagen país, externalidades positivas asociadas a la educación ambiental, efectos en la salud en otras comunas del país y beneficios derivados de la reducción de Black Carbon10.
+     En relación a los costos, se incorporan los relacionados a inversión y operación asociados a la implementación de las medidas de reducción de emisiones de las fuentes emisoras.
+     Para el caso de las reducciones en concentraciones que generan las medidas de este Plan, se presentarán los resultados de MP2,5 con la finalidad de mostrar el cumplimiento del Plan dentro del plazo establecido.
+     A continuación, en la Tabla I-8, se presentan los principales resultados de la elaboración del AGIES, bajo la metodología de Análisis Costo – Beneficio utilizada y considerando las medidas propuestas en el presente Plan.
+     La reducción en emisiones (ton/año) se representa mediante el símbolo ?. Los resultados indican que casi todos los sectores aportan en la reducción de emisiones, pero que el sector residencial, maquinaria fuera de ruta y transporte son los que más contribuyen, con un 30%, 25% y un 24% respectivamente de las reducciones del PPDA.
+------------------------------------------------
+
+10  Es un agente capaz de afectar el clima, formado debido a combustión incompleta de combustibles fósiles, biocombustibles y bioma-sa. Corresponde a carbón puro que absorbe calor en la atmósfera, con tiempo de residencia que va de días a semanas. Se asocia al aumento de la temperatura global.
+
+     Tabla I-8: Reducciones en emisiones del PDA por sector
+
+
+Fuente: Análisis General del Impacto Económico y Social del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago, Ministerio del Medio Ambiente 2015.
+
+     Por otro lado, los beneficios del PPDA son muy superiores a los costos estimados, con un beneficio neto de 6.965 MM USD y una razón beneficio-costo de 8. El sector trasporte es el de mayor aporte en los beneficios producto de que dichas medidas tienen un impacto importante en la reducción de consumo de combustible. El siguiente Gráfico I 11 muestra en valor presente de los beneficios y costos asociados a la implementación del plan:
+
+     Gráfico I-11: Beneficios y Costos del Plan
+
+Fuente: Análisis General del Impacto Económico y Social del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago, Ministerio del Medio Ambiente 2015.
+
+     La reducción de la concentración anual para MP2,5 alcanza el objetivo propuesto por la norma de 20 µg/m3 para el año 2025. El conjunto de medidas con mayor reducción corresponde a las aplicadas al sector transporte y maquinaria fuera de ruta (49%) seguido por el sector residencial (30%). Estos dos sectores aportan con 10 µg/m3 en la mejora de calidad del aire al año 2026. Aunque aportan en menor medida también es necesario implementar medidas en el sector de quemas agrícolas a fin de lograr la meta del PPDA. 
+     Por último, cabe destacar los casos de mortalidad prematura que se evitarían con la implementación de las medidas del plan, los que se estiman en 2.237 para el año 2026, con un total de 12.413 casos evitados entre los años 2017 y 2026, tal como se puede observar en la Tabla I 9.
+
+     Tabla I-9: Casos evitados al año 2026 y totalidad Plan (2017-2026)
+
+
+
+     En resumen, el resultado del AGIES arrojó para el presente Plan lo siguiente:
+
+1.   Las medidas de reducción de emisiones propuestas permitirán cumplir tanto las normas de MP2,5 diaria y anualal año 2024 y 2025 respectivamente, con importantes aportes del sector transporte, residencial e industrial. De la misma manera, el ozono saldría de zona saturada y el CO de zona latente.
+2.   El conjunto de medidas con mayor reducción corresponde a las aplicadas al sector residencial (30% de las reducciones), seguido por el sector maquinaria de fuera de ruta (25%) y por el sector transporte (24%). Estos tres sectores aportan con 10 µg/m3 para MP2,5 en la mejora de calidad del aire. Aunque aportan en menor medida también es necesario implementar medidas en el sector de quemas agrícolas a fin de lograr la meta del PPDA
+3.   La reducción de emisiones generará los siguientes beneficios: reducción de los casos de mortalidad; reducción de efectos en la salud humana con la consecuente disminución de costos en salud; y reducciones en consumo de combustible principalmente para el sector transporte. Adicionalmente, la reducción de MP posee otros beneficios no cuantificados en este análisis como mejora en la visibilidad, disminución de efectos negativos en ecosistemas, entre otros.
+4.   Los beneficios valorizados se estiman en 7.977 MM USD, para un horizonte de evaluación de 10 años11 atribuibles principalmente al sector transporte (61%).
+5.   Los costos valorizados se estiman en 1.013 MM USD, para un horizonte de evaluación de 10 años atribuibles, al igual que en los beneficios, al sector transporte (92%) e industrial (7%). El sector residencial aporta tan solo con un 1,3%, transformándolo en un sector altamente costo-efectivo en la reducción de emisiones.
+6.   Los beneficios netos12 en valor presente a 10 años se estiman en 6.965 MM USD, con una razón beneficio-costo de 8.
+
+     Lo anterior permite concluir que la implementación del PPDA de la Región Metropolitana de Santiago es altamente rentable desde el punto de vista social, mejorando significativamente la calidad de vida de los habitantes de la región y consecuente con los objetivos de Gobierno en materia de reducción de la contaminación atmosférica.
+
+     I.9 Co-beneficios en cambio climático del PPDA de la Región Metropolitana de Santiago
+
+     El presente PPDA focaliza sus esfuerzos en la reducción del MP2,5, lo que conlleva co-beneficios al reducir las partículas o aerosoles de carbono negro (conocido como black carbon BC en inglés). El carbono negro es un contaminante climático de vida corta y se forma como resultado de la combustión incompleta de combustibles fósiles (diésel, petróleos pesados y carbón) y de la leña. La evidencia demuestra los efectos de las partículas de carbono negro, tanto en la salud de las personas más vulnerables, así como también, sobre otros objetivos de protección. Las campañas de medición de calidad del aire en la Región Metropolitana, muestran altos niveles de "black carbon".
+     Por otra parte, Chile expresó en el Acuerdo Climático de París 2015 que "los esfuerzos que se realicen en el abatimiento de carbono negro en las zonas del país con altos niveles, son un aporte a la sustentabilidad del desarrollo de Chile y está disponible para recibir diversas formas de cooperación técnica y financiamiento internacional que apoye tales iniciativas" (Fuente: Chile en su Contribución Nacional Tentativa INDC, por sus siglas en inglés).
+--------------------------------------------
+
+11  Supuestos generales. Valor de la vida estadística=10.850 UF al año 2002 (Tragüen y Ortúzar, 2004), proyectado según poder de paridad de compra y crecimiento de la población / Tasa de descuento=6% / Horizonte de evaluación=10 años / Tipo cambio dólar: 684 CLP / Tipo cambio UF: 25.115 CLP.
+12  Los beneficios netos corresponden a los beneficios menos los costos.
+
+     De esta forma, las medidas estructurales y efectivas que reduzcan las emisiones del "black carbon" y dado su menor tiempo de vida en la atmósfera, logran contribuir en el corto plazo a una reducción de la tasa de calentamiento global. Esto es, si sumamos las estrategias locales de descontaminación del aire con las acciones globales.
+     El presente PPDA, tiene impactos no cuantificados en la reducción del "black carbon". De hecho, el programa de medio ambiente de las Naciones Unidas, identificó una serie de medidas con efectos en el corto plazo para la protección del clima y con beneficios en calidad del aire, por ejemplo, el reemplazo de cocinas a biomasa por cocinas con otros combustibles modernos; el reemplazo de cocinas y calefactores tradicionales por otros de combustión limpia a biomasa; el reemplazo de estufas a leña por estufas a pellet; eliminar vehículos diésel de alta emisión y la prohibición de las quemas agrícolas.
+     Las medidas mencionadas se alinean con las acciones establecidas en los planes de descontaminación de la zona sur del país; y también, con las medidas que se disponen en el presente Plan, implicando por lo tanto un compromiso país y una visión estratégica de lo local a lo global para combatir el cambio climático.
+     CAPÍTULO II: DEFINICIONES
+     Artículo 3: Para efectos de lo dispuesto en el presente Plan se entenderá por:
+
+1.   Brasero: Recipiente metálico abierto que se utiliza para combustionar leña y/o carbón vegetal para calefacción.
+2.   Briqueta: Combustible sólido, generalmente de forma cilíndrica, elaborado a partir de biomasa densificada de tamaño superior al pellet de madera, según lo establece la Norma NCh3246.
+3.   Caldera: Unidad principalmente diseñada para generar agua caliente, calentar un fluido térmico y/o para generar vapor de agua, mediante la acción del calor.
+4.   Caldera de calefacción: Corresponde a aquella caldera que entrega calor con el fin de alcanzar una temperatura de confort al interior de uno o varios espacios.
+5.   Caldera existente: Aquella caldera que se encuentra operando a la fecha de entrada en vigencia del presente plan o aquella que entre en operación dentro de los 12 meses siguientes a dicha fecha.
+6.   Caldera nueva: Aquella caldera que entra en operación a contar de los 12 meses siguientes de la entrada en vigencia del presente Plan.
+7.   Calefactor: Artefacto que combustiona o puede combustionar leña, briquetas o pellet de madera, fabricado, construido o armado, que tiene una potencia térmica nominal menor o igual a 25 kW, de alimentación manual o automática, de combustión cerrada, provisto de un ducto de evacuación de gases al exterior, destinado para la calefacción en el espacio en que se instala y su alrededor.
+8.   Calefactor hechizo: Artefacto utilizado para la calefacción y/o cocción de alimentos. Se fabrica en hojalaterías o talleres de forma artesanal. No posee templador, tiene evacuación directa de gases de combustión y son reconocibles por la falta de terminaciones y soldaduras visibles en sus uniones.
+9.   Calefactor nuevo: Aquel calefactor que es comercializado con posterioridad a la fecha de entrada en vigencia del presente decreto.
+10.  Calefacción distrital: Sistema de generación y distribución centralizada de calor, mediante el cual se proporciona un servicio de calefacción y agua caliente sanitaria a un conjunto de edificaciones conectadas en red.
+11.  Carbón vegetal: Combustible sólido de color negruzco, de composición porosa y frágil, con un alto contenido de carbono (alrededor del 80%), producido por el calentamiento de madera y/o residuos vegetales.
+12.  Carro ambulante: Sistema móvil que combustiona o puede combustionar combustibles sólidos y cuya finalidad es la cocción de alimentos.
+13.  Cocina a leña: Artefacto que combustiona o puede combustionar leña, diseñado principalmente para transferir calor a los alimentos provisto de un horno no removible.
+14.  Cogeneración: Generación en un solo proceso, de energía eléctrica o mecánica, combinada con la producción de calor.
+15.  Condiciones normales (N): corresponde a una condición donde la temperatura es de 25 grados Celsius (°C) y la presión es de 1 atmósfera (atm).
+16.  Derivados de la madera: Aquellos productos sólidos que han sido obtenidos a partir de un proceso físico de transformación de la madera.
+17.  Emisión: Es la descarga directa o indirecta a la atmósfera de gases o partículas por una chimenea, ducto o punto de descarga.
+18.  Establecimiento: Recintos o locales vinculados a un mismo proceso productivo en el que se realiza una o varias actividades económicas, que producen una transformación de la materia prima o materiales empleados; o que no produciendo una transformación en su esencia, dan origen a nuevos productos; y que en este proceso originan emisiones, residuos y/o transferencias de contaminantes; así como cualesquiera otras actividades directamente relacionadas con aquellas, realizadas o no en el mismo emplazamiento y que puedan tener repercusiones sobre la generación de emisiones, residuos y/o transferencias de contaminantes.
+19.  Fuente: Es toda actividad, proceso, operación o dispositivo móvil o estacionario que independiente de su campo de aplicación, produzca o pueda producir emisiones.
+20.  Fuente estacionaria: Es toda fuente diseñada para operar en un lugar fijo, cuyas emisiones se descargan a través de un ducto o chimenea. Se incluyen aquellas montadas sobre vehículos transportables para facilitar su desplazamiento.
+21.  Fuente estacionaria nueva: Es aquella fuente estacionaria que entra en operación 12 meses después de la fecha de entrada en vigencia del presente Plan.
+22.  Fuente estacionaria existente: Aquella fuente estacionaria que se encuentra operando a la fecha de entrada en vigencia del presente Plan o aquella que entre en operación dentro de los 12 meses siguientes a dicha fecha.
+23.  Grupo electrógeno: Corresponde a aquella unidad utilizada para generar electricidad, que consta de un motor de combustión interna acoplado a un alternador o generador.
+24.  Grupo electrógeno nuevo: Es aquel grupo electrógeno que entra en operación a contar de los 6 meses siguientes de la entrada en vigencia del presente Plan.
+25.  Grupo electrógeno existente: Es aquel grupo electrógeno que se encuentra operando a la fecha de entrada en vigencia del presente Plan o aquel que entre en operación dentro de los 6 meses siguientes a dicha fecha.
+26.  Horno de barro: Aparato construido de ladrillos, barro y/o adobe que posee una cámara de combustión cerrada, que combustiona o puede combustionar leña y carbón vegetal y cuya finalidad es la cocción de alimentos, de  uso residencial o comercial.
+27.  Leña: Porción de madera en bruto de troncos, ramas y otras partes de árboles o arbustos, utilizada como combustible sólido.
+28.  Leña seca: Aquella que tiene un contenido de humedad menor al 25% medida en base seca, de acuerdo a lo estipulado en la Norma NCh2907, o la que la reemplace.
+29.  Maquinaria móvil fuera de ruta: Cualquier máquina móvil o equipo industrial portátil o vehículo con o sin carrocería, no destinados al transporte de pasajeros o mercancías por carretera, aptos para desplazarse sobre el suelo, con o sin carretera y que funciona en base a motores de combustión interna, de encendido por compresión, con una potencia neta instalada, igual o superior a 19 kW e inferior o igual a 560 kW. Se excluyen los motores destinados a la propulsión de automotores, locomotoras u otros elementos y equipos ferroviarios que se desplacen sobre rieles, barcos, aeronaves y vehículos de recreación.
+30.  Maquinaria móvil fuera de ruta nueva: Aquella maquinaria móvil fuera de ruta que ingresa al país o es fabricada en Chile a partir del 1 de enero de 2020.
+31.  NCh2907: Se refiere a la NCh2907:2005 Combustible sólido – Leña – Requisitos. Fue declarada Oficial por Resolución Exenta N°569, de fecha 13 de septiembre de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial el 23 de septiembre de 2005.
+32.  NCh2965: Se refiere a la NCh2965:2005 Combustible sólido – Leña – Muestreos e Inspección, que permite verificar que un lote de leña cumple con los requisitos establecidos en la Norma NCh2907. Fue declarada Oficial por Resolución Exenta N° 569, de fecha 13 de septiembre de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicada en el Diario Oficial el 23 de septiembre de 2005.
+33.  NCh3246: Se refiere a la NCh3246/1:2011 Biocombustibles sólidos – Especificaciones y clases- Parte 1: Requisitos generales. Fue declarada Oficial por Decreto Exento N° 227, de fecha 30 de mayo de 2013, del Ministerio de Energía, publicado en el Diario Oficial el 2 de agosto de 2013.
+34.  NCh62: Se refiere a la NCh62:2000 Petróleo Diésel - Requisitos. Fue declarada Oficial por Decreto Exento N° 373, de fecha 23 de noviembre de 2000, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial el 15 de diciembre de 2000.
+35.  NCh64: Se refi a la NCh64:1995 Gasolina para motores de ignición por chispa - Requisitos. Fue declarada Ofi     por Decreto Exento N° 142 de fecha 27 de julio de 1995, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Ofi el 19 de agosto de 1995.
+36.  NCh61: Se refiere a la NCh61:1999 Petróleo combustible (fuel oil) - Requisitos. Fue declarada Oficial por Decreto Exento N° 361, de fecha 15 de septiembre de 1999, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial el 8 de octubre de 1999.
+37.  NCh63: Se refiere a la NCh63:2000 Kerosene - Requisitos. Fue declarada Oficial por Decreto Exento N° 373, de fecha 23 de noviembre de 2000, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial el 15 de diciembre de 2000.
+38.  NCh72: Se refiere a la NCh72:1999 Gases licuados de petróleo - Especificaciones. Fue declarada Oficial por Decreto Exento N°361, de fecha 15 de septiembre de 1999, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial el 8 de octubre de 1999.
+39.  NCh2115: Se refiere a la NCh2115:1998 Gases licuados de petróleo para uso automotriz - Especificaciones. Fue declarada Oficial por Decreto Exento N° 606, de fecha 24 de diciembre de 1998, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial el 6 de enero de 1999.
+40.  Parrilla: Aparato que combustiona o puede combustionar leña y carbón vegetal para la cocción de alimentos.
+41.  Pellet de madera: Combustible sólido, generalmente de forma cilíndrica, fabricado a partir de madera pulverizada sin tratar, extraída del conjunto del árbol y aglomerada con o sin ayuda de ligantes. Las características técnicas serán aquellas señaladas en la Norma NCh3246.
+42.  Plantel: Espacio físico que consta de uno o más sectores, donde se encuentran los animales, operado en forma técnicamente independiente o con un manejo sanitario y administrativo común.
+43.  Plantel de cría de aves de corral para producción de carne o producción de huevos: Plantel de crianza, engorda, postura y/o reproducción de animales avícolas.
+44.  Plantel de cría de porcinos: Plantel de crianza, engorda y/o reproducción de animales, donde puedan ser mantenidos en confinamiento en patios de alimentación, por más de un mes continuado.
+45.  Plantel nuevo: Aquel plantel nuevo que inicia operaciones o cuenta con Resolución de Calificación Ambiental con posterioridad a la entrada en vigencia del presente Plan, y las modificaciones de los planteles existentes que obtengan Resolución de Calificación Ambiental con posterioridad a la entrada en vigencia del presente Plan.
+46.  Plantel existente: Aquel plantel que inicia operaciones o cuenta con Resolución de Calificación Ambiental con anterioridad a la entrada en vigencia del presente Plan.
+47.  Potencia térmica nominal: Corresponde a la potencia máxima del equipo, informada por el fabricante, que puede suministrar un equipo en funcionamiento continuo, ajustándose a la eficiencia declarada por el fabricante.
+48.  Proceso: Aquellas fuentes estacionarias que no correspondan a calderas, grupos electrógenos ni hornos panificadores. Esta categoría de fuente estacionaria no incluye a las fuentes afectas a la excepción contemplada en el artículo 42 del presente decreto.
+49.  Proceso con combustión: Es aquel proceso cuyas emisiones, o parte de ellas, son generadas a partir de combustión.
+50.  Salamandra: Calefactor de cámara simple y fierro fundido.
+51.  Sistema de Calefacción: Sistema compuesto por uno o más equipos (y sus conexiones), destinado para la calefacción en el espacio en que se instalan sus componentes y su alrededor, generando calor a través de diferentes energéticos, entre ellos, electricidad, gas y parafina.
+52.  Xilohigrómetro: Instrumento portátil que permite determinar el contenido de humedad en la madera mediante resistencia eléctrica.

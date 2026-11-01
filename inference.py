@@ -1,3 +1,5 @@
+import string
+
 from transformers import (
     AutoTokenizer,
     AutoModelForTokenClassification,
@@ -12,6 +14,18 @@ MODELS = {
 
 INPUT_PATH = "input/chap_1_&_2.txt"
 OUTPUT_PATH = "predictions.ann"
+
+PUNCT = set(string.punctuation + "¿¡«»")
+STOPWORDS = {"de", "la", "el", "los", "las", "y", "a", "en", "del", "que", "por", "con"}
+
+
+def clean_span(start, end, doc):
+    while start < end and (doc[start] in PUNCT or doc[start].isspace()):
+        start += 1
+    while end > start and (doc[end - 1] in PUNCT or doc[end - 1].isspace()):
+        end -= 1
+    return start, end
+
 
 with open(INPUT_PATH) as f:
     text = f.read()
@@ -31,9 +45,16 @@ for name, (path, cls_label) in MODELS.items():
     for line in text.split("\n"):
         if line.strip():
             for e in nlp(line):
-                start = offset + int(e["start"])
-                end = offset + int(e["end"])
-                spans.append((cls_label, start, end, text[start:end]))
+                start, end = clean_span(
+                    offset + int(e["start"]), offset + int(e["end"]), text
+                )
+                if start >= end:
+                    continue
+                body = text[start:end]
+                words = [w for w in body.split() if w]
+                if not words or all(w.lower() in STOPWORDS for w in words):
+                    continue
+                spans.append((cls_label, start, end, body))
         offset += len(line) + 1
 
 with open(OUTPUT_PATH, "w") as f:

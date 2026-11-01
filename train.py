@@ -12,6 +12,12 @@ from metrics import LABEL_NAMES, compute_metrics_fns
 
 MODEL_CHECKPOINT = "PlanTL-GOB-ES/RoBERTalex"
 
+CLASS_WEIGHT_CAPS = {
+    "deontic": None,
+    "object": 2.5,
+    "attribute": None,
+}
+
 data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
 
 
@@ -46,6 +52,9 @@ for name, dataset in tokenized_datasets.items():
     )
     w = (counts.sum() / counts) ** 0.5
     class_weights = torch.tensor(w / w.min(), dtype=torch.float)
+    cap = CLASS_WEIGHT_CAPS.get(name)
+    if cap is not None:
+        class_weights = torch.clamp(class_weights, max=cap)
     print(f"{name}: label counts={counts.tolist()}  weights={class_weights.tolist()}")
 
     model = AutoModelForTokenClassification.from_pretrained(

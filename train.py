@@ -20,6 +20,7 @@ CLASS_WEIGHT_CAPS = {
     "object": 2.5,
     "attribute": None,
 }
+B_OVER_I_RATIO = 1.5
 
 data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
 
@@ -58,6 +59,9 @@ for name, dataset in tokenized_datasets.items():
     cap = CLASS_WEIGHT_CAPS.get(name)
     if cap is not None:
         class_weights = torch.clamp(class_weights, max=cap)
+    class_weights[1] = max(
+        class_weights[1].item(), class_weights[2].item() * B_OVER_I_RATIO
+    )
     print(f"{name}: label counts={counts.tolist()}  weights={class_weights.tolist()}")
 
     model = AutoModelForTokenClassification.from_pretrained(

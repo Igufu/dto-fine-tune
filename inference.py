@@ -24,7 +24,7 @@ for name, (path, cls_label) in MODELS.items():
         "ner",
         model=model,
         tokenizer=tokenizer,
-        aggregation_strategy="simple",
+        aggregation_strategy="first",
     )
 
     offset = 0

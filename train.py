@@ -15,12 +15,11 @@ from metrics import LABEL_NAMES, compute_metrics_fns
 
 MODEL_CHECKPOINT = "PlanTL-GOB-ES/RoBERTalex"
 
-CLASS_WEIGHT_CAPS = {
-    "deontic": None,
-    "object": 2.5,
-    "attribute": None,
+CLASS_WEIGHTS = {
+    "deontic":   [1.0, 6.0, 5.5],
+    "object":    [1.0, 12.0, 10.0],
+    "attribute": [1.0, 5.0, 3.5],
 }
-B_OVER_I_RATIO = 1.5
 
 data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
 
@@ -54,14 +53,7 @@ for name, dataset in tokenized_datasets.items():
         [l for ex in split["train"]["labels"] for l in ex if l != -100],
         minlength=3,
     )
-    w = (counts.sum() / counts) ** 0.5
-    class_weights = torch.tensor(w / w.min(), dtype=torch.float)
-    cap = CLASS_WEIGHT_CAPS.get(name)
-    if cap is not None:
-        class_weights = torch.clamp(class_weights, max=cap)
-    class_weights[1] = max(
-        class_weights[1].item(), class_weights[2].item() * B_OVER_I_RATIO
-    )
+    class_weights = torch.tensor(CLASS_WEIGHTS[name], dtype=torch.float)
     print(f"{name}: label counts={counts.tolist()}  weights={class_weights.tolist()}")
 
     model = AutoModelForTokenClassification.from_pretrained(

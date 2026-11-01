@@ -16,12 +16,16 @@ with open(STANDOFF_DOCUMENT) as f:
             continue
         info = parts[1].split(' ')
         cls, start, end = info[0], int(info[1]), int(info[2])
+        while start < end and text[start] in ' \n':
+            start += 1
+        while end > start and text[end - 1] in ' \n':
+            end -= 1
         anns[cls].append((start, end))
 
 
 def tag_id(start, end, spans):
     for s, e in spans:
-        if start >= s and end <= e:
+        if s <= start < e:
             return 1 if start == s else 2
     return 0
 

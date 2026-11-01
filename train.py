@@ -73,7 +73,7 @@ for name, dataset in tokenized_datasets.items():
         metric_for_best_model="f1",
         save_total_limit=1,
     )
-
+    # ver
     trainer = WeightedTrainer(
         model=model,
         args=args,

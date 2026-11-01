@@ -1,3 +1,6 @@
+import json
+import os
+
 import torch
 import numpy as np
 from transformers import (
@@ -88,3 +91,18 @@ for name, dataset in tokenized_datasets.items():
 
     trainer.train()
     trainer.save_model(f"models/{name}/final")
+
+    os.makedirs(f"models/{name}", exist_ok=True)
+    with open(f"models/{name}/log_history.json", "w") as f:
+        json.dump(trainer.state.log_history, f)
+
+    pred_out = trainer.predict(split["test"])
+    preds = np.argmax(pred_out.predictions, axis=-1)
+    gold = pred_out.label_ids
+    mask = gold != -100
+    pred_counts = np.bincount(preds[mask], minlength=3).tolist()
+    true_counts = np.bincount(gold[mask], minlength=3).tolist()
+    with open(f"models/{name}/val_counts.json", "w") as f:
+        json.dump(
+            {"pred": pred_counts, "true": true_counts, "labels": label_names}, f
+        )
